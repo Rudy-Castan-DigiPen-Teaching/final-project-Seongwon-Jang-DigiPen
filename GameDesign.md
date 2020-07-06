@@ -1,7 +1,7 @@
-//Name: Seongwon Jang(장성원)
-//Assignment name: Final Project
-//Course Number: 20616-09(cs099)
-//Term & Year: Spring 2020
+//Name: Seongwon Jang(장성원)  
+//Assignment name: Final Project  
+//Course Number: 20616-09(cs099)  
+//Term & Year: Spring 2020  
 
 Game Design
 
@@ -47,3 +47,4 @@ you can choose to move MainScene or TitleScene
 you can see developer, license
 
 Game logic and UI Flow chart
+![GameLogicandUI](https://user-images.githubusercontent.com/65111263/86619100-e994f400-bff4-11ea-929f-49d95bc618c7.PNG)
