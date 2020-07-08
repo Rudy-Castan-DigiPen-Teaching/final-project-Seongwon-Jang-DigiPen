@@ -1,1 +1,3 @@
-https://editor.p5js.org/jsw69490/sketches/c9tqLRlk-
+p5.js: https://editor.p5js.org/jsw69490/sketches/c9tqLRlk-
+
+github: https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-Seongwon-Jang-DigiPen.git
